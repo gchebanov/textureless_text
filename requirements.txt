@@ -1,0 +1,6 @@
+moderngl[headless]~=5.11.1
+ffmpegcv~=0.3.15
+numba~=0.60.0
+numpy~=1.26.4
+pillow~=10.4.0
+tqdm~=4.66.5
